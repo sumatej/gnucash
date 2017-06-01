@@ -12571,7 +12571,7 @@ msgstr "Nastaviť štandardný názov QIF účtu"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:11
 msgid "Semicolon (;)"
-msgstr "Podkočiarka(;)"
+msgstr "Bodkočiarka(;)"
 
 #: ../src/import-export/csv/gnc-csv-preview-dialog.glade.h:12
 #, fuzzy
